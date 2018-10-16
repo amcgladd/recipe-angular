@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+
+li {
+  margin-bottom: 15px;
+  line-height: 2;
+}
+
+button {
+  margin-right: 5px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+input {
+  width: 80%;
+  border: 0;
+  border-bottom: 1px solid black;
+}
+
+input:focus {
+  outline: none;
+}
